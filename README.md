@@ -9,3 +9,5 @@ the globe. The audience, sponsors, team members, etc. can quickly review the pre
 gathered over time using this Tableau dashboard. It can also assist the user of this dashboard in
 responding to questions. "What kind of team should be formed, Which player should be sent,
 where, when, and what should the strategies be?"
+
+Dashboard Link : https://public.tableau.com/app/profile/vridhi.sagar/viz/IPL_AnalysisDV_Fall2022/IPLAnalysisDashboard?publish=yes
